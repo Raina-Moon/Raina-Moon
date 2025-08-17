@@ -8,6 +8,8 @@ I love building interactive web apps, solving real-world problems with code, and
 - ✨ I enjoy learning, experimenting, and sharing knowledge through projects.  
 
 ---
+## Tech Stack
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -40,21 +42,37 @@ I love building interactive web apps, solving real-world problems with code, and
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/daseul-moon-8b064128b)
+### 🚀 Featured Projects  
+
+#### 🍹 SipSense  
+A mobile app that helps users track and manage cola intake.  
+*Tech: React Native, Expo, Zustand, Prisma, Express, PostgreSQL, AWS*  
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/sipsense/id6746238876?l=en-GB)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mds64.sipsense&pcampaignid=web_share)
+
+---
+
+#### 🏝️ Korips  
+A hot spring reservation SaaS platform.  
+*Tech: TypeScript, Redux Toolkit, Express, Prisma ORM, PostgreSQL, i18n*  
+
+👉 [Repo](https://github.com/Raina-Moon/korip-web) | [Live Demo](https://korips.com)
+
+---
+
+#### 🎯 Fomofix  
+A goal-tracking social platform with gamified challenges.  
+*Tech: Next.js, PostgreSQL, Docker, AWS*  
+
+👉 [Repo](https://github.com/Raina-Moon/mini-goal-project) | [Live Demo](http://3.106.254.86:3000/)
+
+---
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daseul-moon-8b064128b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://raina-moon.com/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mds6425@gmail.com)
-
-### 🚀 Featured Projects
- - **SipSense** – A mobile app that helps users track and manage cola intake 🍹  
-  *(React Native, Expo, Zustand, Prisma, Express, PostgreSQL, AWS)*  
-  👉 [App Store](https://apps.apple.com/kr/app/sipsense/id6746238876?l=en-GB) | [Google Play](https://play.google.com/store/apps/details?id=com.mds64.sipsense&pcampaignid=web_share)
-
- - **Korips** – Hot spring reservation SaaS  
-  *(TypeScript, Redux Toolkit, Express, prisma ORM, PostgreSQL, i18n)*  
-  👉 [Repo](https://github.com/Raina-Moon/korip-web) | [Live Demo](https://korips.com)
-
- - **Fomofix** – A goal-tracking social platform  
-  *(Next.js, PostgreSQL, Docker, AWS)*  
-  👉 [Repo](https://github.com/Raina-Moon/mini-goal-project) | [Live Demo](http://3.106.254.86:3000/)
 
